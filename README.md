@@ -1,11 +1,10 @@
-# Demo
-This is my first repo
+# PROJECTS
+This is Repository for my projects related to Data science domain
 
-- Point 1
-- Point2
+- Avacado Data set (EDA and Regression)
 
 __
 
 ```
-print("Hello World")
+print("Thanks for checking this. Please give suggestions. EMAIL - goldyjnu@gmail.com")
 ```
